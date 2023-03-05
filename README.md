@@ -11,6 +11,5 @@
 
 ![slave](https://github.com/felimonist/12.5/blob/main/img/2.2.JPG)
 
+Файл с запросами и результатами EXPLAIN ANALYZE
 [index.sql](https://github.com/felimonist/12.5/blob/main//files/index.sql)
-
-
